@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connection>
+  <user>
+    <username>aure</username>
+    <password>1234</password>
+  </user>
+  <user>
+    <username>alejandro</username>
+    <password>1234</password>
+    <date>2024-11-28 00:13:25</date>
+  </user>
+  <user>
+    <username>alejandro</username>
+    <password>1234</password>
+    <date>2024-11-28 16:37:45</date>
+  </user>
+  <user>
+    <username>alejandro</username>
+    <password>1234</password>
+    <date>2024-11-28 16:37:52</date>
+  </user>
+  <user>
+    <username>alejandro</username>
+    <password>1234</password>
+    <date>2024-11-28 17:07:47</date>
+  </user>
+  <user>
+    <username>alejandro</username>
+    <password>1234</password>
+    <date>2024-11-28 17:12:50</date>
+  </user>
+  <user>
+    <username>aure</username>
+    <password>1234</password>
+    <date>2024-11-29 01:10:41</date>
+  </user>
+</connection>

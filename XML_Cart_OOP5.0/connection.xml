@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<connections>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+    </connection>
+    <connection>
+        <username>alejandro2</username>
+        <password>1234</password>
+    </connection>
+    <connection>
+        <username>alejandro2</username>
+        <password>1234</password>
+        <date>2024-12-04 12:05:14</date>
+    </connection>
+    <connection>
+        <username>alejandro2</username>
+        <password>1234</password>
+        <date>2024-12-04 12:14:13</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 14:59:47</date>
+    </connection>
+    <connection>
+        <username>aure</username>
+        <password>1234</password>
+        <date>2024-12-04 15:23:13</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 17:25:12</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>12324</password>
+        <date>2024-12-04 17:25:22</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:36:30</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:44:46</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:03</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:52</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:52</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:52</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:52</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:53</date>
+    </connection>
+    <connection>
+        <username>alejandro</username>
+        <password>1234</password>
+        <date>2024-12-04 19:45:53</date>
+    </connection>
+    <connection>
+        <username>aure</username>
+        <password>1234</password>
+        <date>2024-12-04 19:46:06</date>
+    </connection>
+<connection><username>alejandro</username><password>1234</password><date>2024-12-04 22:31:32</date></connection></connections>
